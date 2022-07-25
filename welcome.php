@@ -29,7 +29,7 @@ if(!isset($_SESSION["email"]))
       </h3>
         <hr class="border border-lg border-white w-100 mx-auto">
         
-        <p>  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto delectus magnam sapiente provident est unde officiis, tempore eius dolorem sed non esse, quibusdam accusantium reprehenderit, ex blanditiis aspernatur? Voluptas, adipisci!</p>
+        <p> Welcome is an Indian 2022 Hindi-language comedy film directed and co-written by Anees Bazmee with production by Firoz Nadiadwala</p>
           
     </div> 
     
